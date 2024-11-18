@@ -1,0 +1,10 @@
+[
+    {
+        "type": "File",
+        "name": "/root/gitops/security/security-demo/src/main/java/org/springframework/samples/petclinic/codeql/ExampleController.java",
+        "parent_id": null,
+        "workspaceRoot": "/root/gitops/security/security-demo",
+        "workspacePath": "src/main/java/org/springframework/samples/petclinic/codeql/ExampleController.java",
+        "id": "MQ0TeDuilIf6YacP"
+    }
+]
